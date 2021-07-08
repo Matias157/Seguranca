@@ -1,0 +1,2 @@
+Texto teste de entrada para o algoritmo RC4!
+A chave para este texto será: abc123
